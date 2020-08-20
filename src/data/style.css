@@ -1,0 +1,9 @@
+table{
+    padding: "10px";
+    border: "20px";
+}
+.hrr{
+    height: "50px";
+    width: "50px";
+    background-color: "red";
+}
